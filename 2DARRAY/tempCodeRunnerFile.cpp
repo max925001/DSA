@@ -1,0 +1,1 @@
+printarray(arr ,3,4);
